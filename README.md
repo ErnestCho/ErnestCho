@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErnestCho from South Korea.
 - 👀 I’m interested in making DIY boards with my H/W and S/W background.
-- 🌱 I’m currently using (or learning) MSP430, verious analog ICs, OrCad, KiCad, CCS and C/C++
+- 🌱 I’m currently using (or learning) MSP430, various analog ICs, OrCad, KiCad, CCS and C/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : yoch.cho@gmail.com 
 
